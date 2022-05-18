@@ -5,7 +5,7 @@
 - Pamukkale Üniversitesinde 3.sınıf Bilgisayar Mühendisliği Öğrencisiyim.
 - Yoğunluklu olarak Web Teknolojileri üzerine çalışıyorum, projeler yapıyorum
 - Fakat her alanda öğrenmeye, gelişime açığım.
-- Her gün yeni daha fazlasını öğrenmeye ve kendimi geliştirmeye devam ediyorum.
+- Her gün daha fazlasını öğrenmeye ve kendimi geliştirmeye devam ediyorum.
 
 ### Benimle İletişime Geçin:
 
