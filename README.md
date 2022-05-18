@@ -9,10 +9,7 @@
 
 ### Connect with me:
 
-
-&nbsp;&nbsp;
-[<img align="left" alt="LinkedIn" width="26px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" style="padding-right:10px;" />](https://www.linkedin.com/in/sabri-%C3%A7akir-aa1985212#gh-dark-mode-only)
-[<img align="left" alt="LinkedIn" width="26px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" style="padding-right:10px;" />](https://www.linkedin.com/in/sabri-%C3%A7akir-aa1985212#gh-light-mode-only)
+[<img align="left" alt="LinkedIn" width="26px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" style="padding-right:10px;" />](https://www.linkedin.com/in/sabri-%C3%A7akir-aa1985212)
 
 
 ### Languages and Tools:
