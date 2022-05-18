@@ -11,6 +11,7 @@
 
 [<img align="left" alt="LinkedIn" width="26px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" style="padding-right:10px;" />](https://www.linkedin.com/in/sabri-%C3%A7akir-aa1985212)
 
+<br/>
 
 ### Languages and Tools:
 
@@ -20,4 +21,4 @@
 [<img align="left" alt="CSS3" width="26px" height="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />]()
 [<img align="left" alt="JavaScript" width="26px" height="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />]()
 
-<br />
+<br/>
