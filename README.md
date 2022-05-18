@@ -22,7 +22,5 @@
 [<img align="left" alt="HTML5" width="26px" height="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />]()
 [<img align="left" alt="CSS3" width="26px" height="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />]()
 [<img align="left" alt="JavaScript" width="26px" height="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />]()
-[<img align="left" alt="Ruby" width="26px" height="26px" src="https://w7.pngwing.com/pngs/535/618/png-transparent-ruby-on-rails-computer-programming-programming-language-ruby-angle-rectangle-logo.png" style="padding-right:10px;" />]()
-[<img align="left" alt="Rails" width="26px" height="26px" src="https://icons-for-free.com/iconfiles/png/512/rails+ruby+icon-1320190792036157850.png" style="padding-right:10px;" />]()
 
 <br />
