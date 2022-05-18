@@ -2,10 +2,10 @@
   
 # Herkese Selam, Ben Sabri👋
 
-- Pamukkale Üniversitesinde 3.sınıf Bilgisayar Mühendisliği Öğrencisiyim.
-- Yoğunluklu olarak Web Teknolojileri üzerine çalışıyorum, projeler yapıyorum
-- Fakat her alanda öğrenmeye, gelişime açığım.
-- Her gün daha fazlasını öğrenmeye ve kendimi geliştirmeye devam ediyorum.
+:heavy_check_mark: Pamukkale Üniversitesinde 3.sınıf Bilgisayar Mühendisliği Öğrencisiyim.<br/>
+:heavy_check_mark: Yoğunluklu olarak Web Teknolojileri üzerine çalışıyorum, projeler yapıyorum<br/>
+:heavy_check_mark: Fakat her alanda öğrenmeye, gelişime açığım.<br/>
+:heavy_check_mark: Her gün daha fazlasını öğrenmeye ve kendimi geliştirmeye devam ediyorum.<br/>
 
 ### Benimle İletişime Geçin:
 
