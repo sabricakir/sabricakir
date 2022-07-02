@@ -8,7 +8,7 @@
 :heavy_check_mark: Fakat her alanda öğrenmeye, gelişime açığım. Öğrenmeyi ve öğrendiklerimin üzerine katmayı seviyorum.<br/>
 :heavy_check_mark: Bana **sabricakir86@gmail.com** adresinden ulaşabilirsiniz.<br/>
 
-### Benimle İletişime Geçin:
+### Benimle Farklı Şekillerde İletişime Geçmek İçin:
 
 [<img align="left" alt="LinkedIn" width="40px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" style="padding-right:10px;" />](https://www.linkedin.com/in/sabri-%C3%A7akir-aa1985212)
 
@@ -16,7 +16,7 @@
 
 <br/>
 
-### Diller ve Araçlar:
+### Kullandığım Diller ve Araçlar:
 
 
 [<img align="left" alt="Visual Studio Code" width="40px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />]()
