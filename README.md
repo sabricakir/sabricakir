@@ -1,14 +1,14 @@
 
   
-# Herkese Selam 👋, Ben Sabri
+# Hi Everyone 👋, I'm Sabri
 
-:heavy_check_mark: Pamukkale Üniversitesinde 3.sınıf Bilgisayar Mühendisliği Öğrencisiyim.<br/>
-:heavy_check_mark: Yoğunluklu olarak Web Teknolojileri üzerine çalışıyorum, projeler yapıyorum.<br/>
-:heavy_check_mark: Şu anda **Ruby on Rails** üzerine kendimi geliştiriyorum.<br/>
-:heavy_check_mark: Fakat her alanda öğrenmeye, gelişime açığım. Öğrenmeyi ve öğrendiklerimin üzerine katmayı seviyorum.<br/>
-:heavy_check_mark: Bana **sabricakir86@gmail.com** adresinden ulaşabilirsiniz.<br/>
+:heavy_check_mark: I am a 3rd year Computer Engineering student at Pamukkale University.<br/>
+:heavy_check_mark: I mainly work on Web Technologies, I do projects.<br/>
+:heavy_check_mark: I'm currently developing on **Ruby on Rails**.<br/>
+:heavy_check_mark: But I am open to learning and development in everything. I love to learn and build on what I've learned.<br/>
+:heavy_check_mark: You can reach me at **sabricakir86@gmail.com**.<br/>
 
-### Benimle Farklı Şekillerde İletişime Geçmek İçin:
+### Contact Me in Different Ways:
 
 [<img align="left" alt="LinkedIn" width="40px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" style="padding-right:10px;" />](https://www.linkedin.com/in/sabri-%C3%A7akir-aa1985212)
 
@@ -16,7 +16,7 @@
 
 <br/>
 
-### Kullandığım Diller ve Araçlar:
+### Languages and Tools:
 
 
 [<img align="left" alt="Visual Studio Code" width="40px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />]()
