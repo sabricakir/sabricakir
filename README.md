@@ -12,7 +12,7 @@
 
 [<img align="left" alt="LinkedIn" width="40px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" style="padding-right:10px;" />](https://www.linkedin.com/in/sabri-%C3%A7akir-aa1985212)
 
-[<img align="left" alt="Instagram" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/2048px-Instagram_logo_2016.svg.png" style="padding-right:10px;" />](https://instagram.com/sabricakirr?igshid=YmMyMTA2M2Y=)
+[<img align="left" alt="Instagram" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/2048px-Instagram_logo_2016.svg.png" style="padding-right:10px;" />](https://instagram.com/sabricakirr?igshid=YmMyMTA2M2Y)
 
 <br/>
 
