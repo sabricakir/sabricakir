@@ -31,5 +31,11 @@
 [<img align="left" alt="Terminal" width="43px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/GNOME_Terminal_icon_2019.svg/768px-GNOME_Terminal_icon_2019.svg.png" style="padding-right:10px;" />]()
 
 <br/>
+<br/>
 
+### :octocat: Github Statistics
+<p align="left">
+<img  src="https://github-readme-stats.vercel.app/api?username=sabricakir&show_icons=true&theme=radical" alt="sabricakir" width="480" height="180" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sabricakir&layout=compact&hide=html&theme=radical" alt="sabricakir" width="480" height="180"/>
+</p>
 
