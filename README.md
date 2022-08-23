@@ -1,6 +1,4 @@
-
-  
-# Hi Everyone 👋, I'm Sabri
+![Typing SVG](https://readme-typing-svg.herokuapp.com?color=0077b7&center=false&vCenter=false&width=800&lines=Hi+Everyone,+I'm+Sabri.+A+Full+Stack+Web+Developer.)
 
 :information_source: I am a 3rd year Computer Engineering student at Pamukkale University.<br/>
 :information_source: I mainly work on Web Technologies, I do projects.<br/>
@@ -9,11 +7,11 @@
 
 ### Contact Me in Different Ways:
 
-[<img align="left" alt="LinkedIn" width="40px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" style="padding-right:10px;" />](https://www.linkedin.com/in/sabri-%C3%A7akir-aa1985212)
+[<img align="left" alt="Instagram" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Google_Plus_logo_%282015-2019%29.svg/1200px-Google_Plus_logo_%282015-2019%29.svg.png" style="padding-right:10px;" />](mailto:sabricakir86@gmail.com)
+
+[<img align="left" alt="LinkedIn" width="40px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" style="padding-right:10px;" />](https://www.linkedin.com/in/sabricakir)
 
 [<img align="left" alt="Instagram" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/2048px-Instagram_logo_2016.svg.png" style="padding-right:10px;" />](https://instagram.com/sabricakirr)
-
-[<img align="left" alt="Instagram" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Google_Plus_logo_%282015-2019%29.svg/1200px-Google_Plus_logo_%282015-2019%29.svg.png" style="padding-right:10px;" />](mailto:sabricakir86@gmail.com)
 
 <br/>
 
@@ -34,10 +32,12 @@
 <br/>
 <br/>
 
-### :octocat: Github Statistics
 <div align="center">
+<h2> :octocat: Github Statistics </h2>
+
   <img src="https://github-readme-stats.vercel.app/api?username=sabricakir&show_icons=true&theme=radical" alt="sabricakir" style="display:block;" width="480" height="200" />
   <img src="https://github-readme-streak-stats.herokuapp.com?user=sabricakir&theme=radical" alt="sabricakir" style="display:block;" width="480" height="200" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sabricakir&layout=compact&theme=radical" alt="sabricakir" style="display:block;" width="480" height="200" />
+  
 </div>
 
