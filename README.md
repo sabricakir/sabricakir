@@ -35,8 +35,9 @@
 <br/>
 
 ### :octocat: Github Statistics
-<div>
-<img  src="https://github-readme-stats.vercel.app/api?username=sabricakir&show_icons=true&theme=radical" alt="sabricakir" width="480" height="180" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sabricakir&layout=compact&hide=html&theme=radical" alt="sabricakir" width="480" height="180"/>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sabricakir&show_icons=true&theme=radical" alt="sabricakir" style="display:block;" width="480" height="200" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=sabricakir&theme=radical" alt="sabricakir" style="display:block;" width="480" height="200" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sabricakir&layout=compact&theme=radical" alt="sabricakir" style="display:block;" width="480" height="200" />
 </div>
 
