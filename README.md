@@ -1,7 +1,7 @@
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?color=0077b7&center=false&vCenter=false&width=800&lines=Hi+Everyone,+I'm+Sabri.+A+Full+Stack+Web+Developer.)
 
 :information_source: I am a 3rd year Computer Engineering student at Pamukkale University.<br/>
-:information_source: I mainly work on Web Technologies, I do projects.<br/>
+:information_source: I mainly work on Web Technologies, I do projects related to it.<br/>
 :information_source: I'm currently developing on **Ruby on Rails**.<br/>
 :information_source: But I am open to learning and development in everything. I love to learn and build on what I've learned.<br/>
 
