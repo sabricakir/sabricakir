@@ -6,13 +6,14 @@
 :heavy_check_mark: I mainly work on Web Technologies, I do projects.<br/>
 :heavy_check_mark: I'm currently developing on **Ruby on Rails**.<br/>
 :heavy_check_mark: But I am open to learning and development in everything. I love to learn and build on what I've learned.<br/>
-:heavy_check_mark: You can reach me at **sabricakir86@gmail.com**.<br/>
 
 ### Contact Me in Different Ways:
 
 [<img align="left" alt="LinkedIn" width="40px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" style="padding-right:10px;" />](https://www.linkedin.com/in/sabri-%C3%A7akir-aa1985212)
 
 [<img align="left" alt="Instagram" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/2048px-Instagram_logo_2016.svg.png" style="padding-right:10px;" />](https://instagram.com/sabricakirr)
+
+[<img align="left" alt="Instagram" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Google_Plus_logo_%282015-2019%29.svg/1200px-Google_Plus_logo_%282015-2019%29.svg.png" style="padding-right:10px;" />](mailto:sabricakir86@gmail.com)
 
 <br/>
 
