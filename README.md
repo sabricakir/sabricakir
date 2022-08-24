@@ -17,17 +17,18 @@
 
 ### Languages and Tools:
 
+<img align="left" alt="Java" width="40" height="40" src="https://www.svgrepo.com/show/232456/java.svg" style="padding-right:10px;" />
+<img align="left" alt="HTML5" width="40" height="40" src="https://cdn1.iconfinder.com/data/icons/logotypes/32/badge-html-5-256.png" style="padding-right:10px;" />
+<img align="left" alt="CSS3" width="40" height="40" src="https://cdn1.iconfinder.com/data/icons/logotypes/32/badge-css-3-256.png" style="padding-right:10px;" />
+<img align="left" alt="JavaScript" width="40" height="40"src="https://www.svgrepo.com/show/355081/js.svg" style="padding-right:10px;" />
+<img align="left" alt="Ruby" width="40" height="40" src="https://cdn1.iconfinder.com/data/icons/miscellaneous-4/32/ruby-256.png" style="padding-right:10px;" />
+<img align="left" alt="Rails" width="40" height="40" src="https://cdn3.iconfinder.com/data/icons/popular-services-brands-vol-2/512/ruby-on-rails-256.png" style="padding-right:10px;" />
+<img align="left" alt="Git" width="40" height="40" src="https://cdn3.iconfinder.com/data/icons/social-media-2169/24/social_media_social_media_logo_git-256.png" style="padding-right:10px;" />
+<img align="left" alt="GitHub" width="40" height="40" src="https://cdn4.iconfinder.com/data/icons/social-media-and-logos-11/32/Logo_Github-512.png" style="padding-right:10px;" />
+<img align="left" alt="Terminal" width="40" height="40" src="https://cdn-icons-png.flaticon.com/512/4248/4248402.png" style="padding-right:10px; margin-bottom:10px;" />
+<img align="left" alt="Visual Studio Code" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
+<img align="left" alt="RubyMine" width="40" height="40" src="https://www.svgrepo.com/show/354299/rubymine.svg" style="padding-right:10px;" />
 
-<img align="left" alt="Visual Studio Code" width="40px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
-<img align="left" alt="HTML5" width="40px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
-<img align="left" alt="CSS3" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />
-<img align="left" alt="JavaScript" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Ruby" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Ruby_logo.svg/1200px-Ruby_logo.svg.png" style="padding-right:10px;" />
-<img align="left" alt="Rails" width="40px" src="https://pbs.twimg.com/media/CZGHPChUAAA3jqE.png:large" style="padding-right:10px;" />
-<img align="left" alt="Java" width="40px"  src="https://cdn.freebiesupply.com/logos/large/2x/java-1-logo-svg-vector.svg" style="padding-right:10px;" />
-<img align="left" alt="Git" width="40px"  src="https://miro.medium.com/max/398/1*yjzfPF88FVJiMGsYv5ob3Q.png" style="padding-right:10px;" />
-<img align="left" alt="GitHub" width="40px" src="https://cdn2.iconfinder.com/data/icons/social-icons-33/128/Github-512.png" style="padding-right:10px;" />
-<img align="left" alt="Terminal" width="43px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/GNOME_Terminal_icon_2019.svg/768px-GNOME_Terminal_icon_2019.svg.png" style="padding-right:10px;" />
 
 <br/>
 <br/>
