@@ -1,4 +1,4 @@
-![Typing SVG](https://readme-typing-svg.herokuapp.com?color=0077b7&center=false&vCenter=false&width=800&lines=Hi+Everyone,+I'm+Sabri.+A+Full+Stack+Web+Developer.)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?color=ef4d4d&center=false&vCenter=false&width=800&lines=Hi+Everyone,+I'm+Sabri.+A+Full+Stack+Web+Developer.)
 
 :black_nib: I am a 3rd year Computer Engineering student at Pamukkale University.<br/>
 :black_nib: I mainly work on Web Technologies, I do projects related to it.<br/>
