@@ -7,7 +7,7 @@
 
 ### Contact Me in Different Ways:
 
-[<img align="left" alt="Instagram" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Google_Plus_logo_%282015-2019%29.svg/1200px-Google_Plus_logo_%282015-2019%29.svg.png" style="padding-right:10px;" />](mailto:sabricakir86@gmail.com)
+[<img align="left" alt="Mail" width="45px" height="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/1280px-Gmail_icon_%282020%29.svg.png"/>](mailto:sabricakir86@gmail.com)
 
 [<img align="left" alt="LinkedIn" width="40px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" style="padding-right:10px;" />](https://www.linkedin.com/in/sabricakir)
 
