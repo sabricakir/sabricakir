@@ -1,5 +1,9 @@
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?color=3E5357&center=false&vCenter=false&width=800&lines=Hi+Everyone,+I'm+Sabri.+A+Full+Stack+Web+Developer.)
 
+ <p align="right">
+  <a href="https://github.com/rizadogukankosar"><img src="https://visitor-badge.laobi.icu/badge?page_id=sabricakir&left_text=Ziyaret%C3%A7i%20Say%C4%B1s%C4%B1"     alt="Ziyaret"></a>
+</p>
+
 :black_nib: I am a 3rd year Computer Engineering student at Pamukkale University.<br/>
 :black_nib: I mainly work on Web Technologies, I do projects related to it.<br/>
 :black_nib: I'm currently developing on **Ruby on Rails**.<br/>
@@ -41,4 +45,3 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sabricakir&layout=compact&theme=radical" alt="sabricakir" style="display:block;" width="480" height="200" />
   
 </div>
-
