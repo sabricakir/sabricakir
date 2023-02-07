@@ -4,10 +4,10 @@
   <a href="https://github.com/sabricakir"><img src="https://visitor-badge.laobi.icu/badge?page_id=sabricakir&left_text=Ziyaret%C3%A7i%20Say%C4%B1s%C4%B1"     alt="Ziyaret"></a>
 </p>
 
-:black_nib: I am a 3rd year Computer Engineering student at Pamukkale University.<br/>
-:black_nib: I mainly work on Web Technologies, I do projects related to it.<br/>
-:black_nib: I'm currently developing on **Ruby on Rails**.<br/>
-:black_nib: But I am open to learning and development in everything. I love to learn and build on what I've learned.<br/>
+:crayon: I am a 3rd year Computer Engineering student at Pamukkale University.<br/>
+:crayon: I mainly work on Web Technologies, I do projects related to it.<br/>
+:crayon: I'm currently developing on **Ruby on Rails**.<br/>
+:crayon: But I am open to learning and development in everything. I love to learn and build on what I've learned.<br/>
 
 ### Contact Me in Different Ways:
 
@@ -17,6 +17,7 @@
 
 [<img align="left" alt="Instagram" width="45px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/2048px-Instagram_logo_2016.svg.png" style="padding-right:10px;" />](https://instagram.com/sabricakirr)
 
+<br/>
 <br/>
 
 ### Languages and Tools:
