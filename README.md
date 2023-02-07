@@ -9,9 +9,9 @@
 
 [<img align="left" alt="Mail" width="45px" height="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/1280px-Gmail_icon_%282020%29.svg.png"/>](mailto:sabricakir86@gmail.com)
 
-[<img align="left" alt="LinkedIn" width="40px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" style="padding-right:10px;" />](https://www.linkedin.com/in/sabricakir)
+[<img align="left" alt="LinkedIn" width="45px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" style="padding-right:10px;" />](https://www.linkedin.com/in/sabricakir)
 
-[<img align="left" alt="Instagram" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/2048px-Instagram_logo_2016.svg.png" style="padding-right:10px;" />](https://instagram.com/sabricakirr)
+[<img align="left" alt="Instagram" width="45px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/2048px-Instagram_logo_2016.svg.png" style="padding-right:10px;" />](https://instagram.com/sabricakirr)
 
 <br/>
 
