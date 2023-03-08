@@ -43,14 +43,15 @@
 </div>
 
 ###
-
-<img src="https://raw.githubusercontent.com/sabricakir/sabricakir/blob/output/snake.svg" alt="Snake animation" />
+<div align="center">
+  <img src="https://github.com/sabricakir/sabricakir/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</div>
 
 ###
 
 <div align="center">
   <a href="https://open.spotify.com/user/2dandkbyqflstdnz0a3torckz">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=2dandkbyqflstdnz0a3torckz" alt="Spotify recently played" />
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=2dandkbyqflstdnz0a3torckz&count=3" alt="Spotify recently played" />
   </a>
 </div>
 
