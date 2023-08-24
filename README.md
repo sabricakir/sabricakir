@@ -43,7 +43,3 @@
 </div>
 
 ###
-
-![Snake animation](https://github.com/sabricakir/sabricakir/blob/output/github-contribution-grid-snake.svg)
-
-###
