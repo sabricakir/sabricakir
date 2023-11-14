@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **React/Redux - Node.js/Express.js**
 
-- 📫 How to reach me **sabricakir86@gmail.com**
+- 📫 Reach me via **sabricakir86@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
