@@ -33,10 +33,10 @@
   <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> 
 </p>
 
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=sabricakir&" alt="sabricakir" /></p>
+<p align="left"><img src="https://github-readme-streak-stats.herokuapp.com/?user=sabricakir&" alt="sabricakir" /></p>
 
-<p><img align="right" src="https://github-readme-stats.vercel.app/api?username=sabricakir&show_icons=true&locale=en" alt="sabricakir" /></p>
+<p align="left"><img src="https://github-readme-stats.vercel.app/api?username=sabricakir&show_icons=true&locale=en" alt="sabricakir" /></p>
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=sabricakir&show_icons=true&locale=en&layout=compact" alt="sabricakir" /></p>
+<p align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=sabricakir&show_icons=true&locale=en&layout=compact" alt="sabricakir" /></p>
 
 
