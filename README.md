@@ -5,8 +5,6 @@
 
 - 🔭 I’m currently working with **Ruby on Rails**
 
-- 🌱 I’m currently learning **React/Redux - Node.js/Express.js**
-
 - 📫 Reach me via **sabricakir86@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
