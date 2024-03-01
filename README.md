@@ -31,6 +31,8 @@
   <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> 
 </p>
 
+<h3 align="left">Stats:</h3>
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sabricakir&layout=pie)
 
 ![Sabri's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sabricakir&show_icons=true)
