@@ -33,10 +33,10 @@
 
 <h3 align="left">Stats:</h3>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sabricakir&layout=pie)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sabricakir&layout=donut&theme=dracula)
 
-![Sabri's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sabricakir&show_icons=true)
+![Sabri's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sabricakir&show_icons=true&theme=dracula)
 
-![Sabri's Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sabricakir)
+![Sabri's Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sabricakir&theme=dracula)
 
 
